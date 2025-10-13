@@ -8,3 +8,5 @@ class Main{
         System.out.println(args[2]);
     }
 }
+
+//when you want to take the input the char use sc.next().charAt();
